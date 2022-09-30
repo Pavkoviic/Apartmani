@@ -4,6 +4,7 @@ module.exports = {
     domains: [
       'links.papareact.com',
       'cdn.pixabay.com',
+      'a0.muscache.com',
     ],
   },
   env: {

@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Header from '../components/Header'
 import Banner from '../components/Banner'
 import LargeCard from '../components/LargeCard'
 import Footer from '../components/Footer'
@@ -6,14 +7,18 @@ import SmallCard from '../components/SmallCard'
 import MediumCard from '../components/MediumCard'
 import React from 'react'
 
-function Home() {
+
+function Home({ }) {
+
+
   return (
-    <div className="">
+    <div>
+      <Header />
       <Head>
         <title>Apartmani</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
+
       <Banner />
 
       <main className='max-w-7xl mx-auto px-8 sm:px-16'>
@@ -39,6 +44,6 @@ function Home() {
   )
 }
 
+
 export default Home
 
-  
