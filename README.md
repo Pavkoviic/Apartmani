@@ -36,13 +36,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 SLIKE
 
-![screenshot](/home/marko/Desktop/apart/screenshot1.png)
+![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
-![screenshot](/home/marko/Desktop/apart/screenshot3.png)
-![screenshot](/home/marko/Desktop/apart/screenshot4.png)
-![screenshot](/home/marko/Desktop/apart/screenshot5.png)
-![screenshot](/home/marko/Desktop/apart/screenshot6.png)
-![screenshot](/home/marko/Desktop/apart/screenshot7.png)
+![screenshot](screenshot3.png)
+![screenshot](screenshot4.png)
+![screenshot](screenshot5.png)
+![screenshot](screenshot6.png)
+![screenshot](screenshot7.png)
 
 
 
